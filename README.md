@@ -1,4 +1,4 @@
-# Machine-Learning--Valuation
+# Machine-Learning-Valuation
 Utilizing machine learning for company valuation I use various financial indicators to predict the log equity market value, lnME, and form trading strategies based on the model's out-of-sample performance.
 
 Please go through the "questions asked" to understand what all I did in depth and "Solution" to understand what the output tells us.
